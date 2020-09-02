@@ -1,1 +1,2 @@
 UDPtoPicture
+目前只是作为UDP传输屏幕截图的demo，代码很简单，基于qt做的
